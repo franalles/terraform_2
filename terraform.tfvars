@@ -1,0 +1,8 @@
+user_ocid="ocid1.user.oc1..aaaaaaaa7jscqihkttacuz76rl4jye37h6a5oc2u3kz44ywsle5igq6e5kba"
+fingerprint="22:e4:54:5a:6f:3b:8c:6b:ce:48:bc:ac:86:36:40:83"
+tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaad37znv7ngj5myyud4bmsfetdfg3zwvap7nlyyqfp2ilukz2jvx5q"
+region="us-ashburn-1"
+private_key_path= "~/Downloads/casas.alejandro-05-26-16-04.pem"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaa4iogr4xt4h5cuhpnyxn32fjblxihqsyb364b7aqht7uj6xp3krya"
+ssh_pkey = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPCOQdZSidocKq6eyVDvB2KUFIIkIlTmNA1PeVvNEN5C6QIeH+0NnxbD56IM7mCKAdlBIm7VWvbjhez5aVRAA/3xPzzOd77zKSrrfCWfV9AnQHYWR+dJ5eLt93fS92wMnvLpaskFaFvaEgreCF8p6BGOxMCKWdGNMA9wAzPqNej47m+8d3IfyEceag/G3Fu5u8T7Cwvj0os9CFrHstVnm6sfr8acpkLwOruU5jV9eZC+7F6GwdT+LD0MYY0nC44VxUNQXwdytaZsSIs15ATipWB4wfMQIVRNYjt/9NB+Erf9roYYn2m9nBEICHF3423hr4yu3zdTyEVWxcrCLj870WsxKgaJUUqqbNoWWxggJkstPnK71zLk6Povcvrn4n+5yE8dPAapzHvybtzuCqn+lCWWx/L5z2hZ/LPdm8je90O/0lzvbMvkdtC/BbVS262to04l3iTyJg+SUlCiq+mvIzdJ/gUWBwzaDVmr0KMZK/SaklH9X3d+kjgPsm/W86UtRLw7vjo0eMQk2ebK0+H02yCTSQ9NyeXHgnsEyZpoL3MbJZfbSMGdvMlzgzibA6kG1So3VnPPIA7HkyBItIpEmvlzJC93doMXLdrd1QJDnSheWE+JZVgcoLO6JYiZVDNLxqiZG3rvSoFLKGmgMin9eaoebZSkqPjUE93+pEuJ3AvQ== al34n1x@al34n1x-mac"
+ssh_private_key_path = "/Users/al34n1x/Downloads/Terraform-intro/Labs-OCI/id_rsa"
