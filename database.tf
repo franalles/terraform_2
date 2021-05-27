@@ -2,7 +2,7 @@ resource "oci_database_autonomous_database" "test_autonomous_database" {
     #Required
     compartment_id = var.compartment_ocid
     cpu_core_count = "1"
-    db_name = "Test Database"
+    db_name = "TestDatabase"
 
     #Optional
     admin_password = "password"
