@@ -18,7 +18,7 @@ data "oci_core_shapes" "lab_shapes"{
     compartment_id = var.compartment_ocid
     filter{
         name = "name"
-        values = ["VM.Standard.E2.1.Micro"]
+        values = ["VM.Standard.A1.Flex"]
     }
 }
 
