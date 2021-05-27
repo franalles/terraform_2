@@ -25,6 +25,6 @@ default = "19c"
 
 
 variable "ATP_database_data_storage_size_in_tbs" {
-default = 0.1
+default = 1
 
 }
