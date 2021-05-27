@@ -8,6 +8,6 @@ resource "oci_database_autonomous_database" "test_autonomous_database" {
     admin_password = "PB7J06TfG29c"
     db_version = var.ATP_database_db_version
     license_model = var.ATP_database_license_model
-    data_storage_size_in_tbs = var.ATP_database_data_storage_size_in_tbs
-    
+    data_storage_size_in_gbs = var.ATP_database_data_storage_size_in_gbs
+
 }
