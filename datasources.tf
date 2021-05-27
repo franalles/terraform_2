@@ -31,3 +31,9 @@ data "oci_core_images" "lab_images"{
     operating_system = "Oracle Linux"
 
 }
+
+
+data "oci_database_autonomous_database" "test_autonomous_database" {
+    #Required
+    autonomous_database_id = oci_database_autonomous_database.test_autonomous_database.id
+}

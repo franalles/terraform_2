@@ -6,3 +6,5 @@ variable "private_key_path"{}
 variable "region"{}
 variable "ssh_pkey"{}
 variable "ssh_private_key_path"{}
+
+
