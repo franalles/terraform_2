@@ -6,6 +6,7 @@ resource "oci_database_autonomous_database" "test_autonomous_database" {
 
     #Optional
     admin_password = "password"
-    autonomous_database_id = oci_database_autonomous_database.test_autonomous_database.id
+    db_version = var.ATP_database_db_version
+    license_model = var.ATP_database_license_model
      
 }

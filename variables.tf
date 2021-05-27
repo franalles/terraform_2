@@ -8,3 +8,17 @@ variable "ssh_pkey"{}
 variable "ssh_private_key_path"{}
 
 
+
+variable "ATP_database_license_model" {
+
+default = "LICENSE_INCLUDED"
+
+}
+
+
+
+variable "ATP_database_db_version" {
+
+default = "19c"
+
+}
